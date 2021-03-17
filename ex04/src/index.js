@@ -1,6 +1,6 @@
 
 
-players = {
+ var players = {
   //Only write code below this line
   7: "Muhamed Besic",
   10: "Mirelem Pjanic",
