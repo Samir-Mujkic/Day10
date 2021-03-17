@@ -4,7 +4,7 @@
   //Only write code below this line
   7: "Muhamed Besic",
   10: "Mirelem Pjanic",
-  11: "Edin Dzeko",
+  11: "Edin Dzeko"
 };
 function myfunction(myObj) {
   var playerNumber = 10;
