@@ -2,7 +2,7 @@ var myClothes = {
   //Only change code below this line
   hat: "Fedora",
   shirt: "Nike",
-  shoes: "Converse",
+  shoes: "Converse"
 };
 function myFunction(myObj) {
   var hatvalue = myObj.hat;
