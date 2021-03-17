@@ -5,11 +5,11 @@ var myFood = {
   drink: "water",
 };
 function myFunction(myObj) {
-  var vegetable = myObj["vegetable"];
-  var fruit = myObj["fruit"];
-  var drink = myObj["drink"];
+  var vegetableValue = myObj["vegetable"];
+  var fruitValue = myObj["fruit"];
+  var drinkValue = myObj["drink"];
 
-  return { vegetable, fruit, drink };
+  return { vegetableValue, fruitValue, drinkValue };
 }
 //Only change code above this line
 console.log(myFunction(myFood));
