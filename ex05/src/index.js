@@ -8,6 +8,7 @@ function myFunction(name) {
   school.name = name;
   return school;
 }
+myFunction("Paragon");
 console.log(myFunction("Paragon"));
 //Only change code above this line
 
