@@ -5,11 +5,11 @@ var myClothes = {
   shoes: "Converse",
 };
 function myFunction(myObj) {
-  var hat = myObj.hat;
-  var shirt = myObj.shirt;
-  var shoes = myObj.shoes;
+  var hatvalue = myObj.hat;
+  var shirtvalue = myObj.shirt;
+  var shoesvalue = myObj.shoes;
   
-  return { hat, shirt, shoes };
+  return { hatvalue, shirtvalue, shoesvalue };
 }
 //Only change code above this line
 console.log(myFunction(myClothes));
